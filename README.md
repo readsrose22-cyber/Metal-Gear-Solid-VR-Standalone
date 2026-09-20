@@ -11,7 +11,7 @@ Metal Gear Solid VR Standalone is a free fan-made project created to experience 
 
 # 🥽 FEATURES
 
-- VR Standalone for Meta Quest 3
+- VR Standalone for Meta Quest 3/3s/Pro and Pico 4/4 Ultra
 - No PC required
 - Controls adapted for Meta Quest Touch
 - Virtual Reality and Mixed Reality experience
