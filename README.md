@@ -1,7 +1,7 @@
 # 🐍 METAL GEAR SOLID VR STANDALONE — v0.1 BETA
 <img width="1280" height="720" alt="5832319396607627732_121" src="https://github.com/user-attachments/assets/eefaa283-aa52-4ecc-a914-ded532e2f703" />
 
-Metal Gear Solid VR Standalone is a free fan-made project created to experience the classic Metal Gear Solid in virtual reality directly on Meta Quest 3, completely Standalone with no PC required.
+Metal Gear Solid VR Standalone is a free fan-made project created to experience the classic Metal Gear Solid in virtual reality directly on Meta Quest 3/3s/Pro/2 and Pico 4/4 Ultra, completely Standalone with no PC required.
 
 > ⚠️ **This is the first public BETA release.**
 >
@@ -11,7 +11,7 @@ Metal Gear Solid VR Standalone is a free fan-made project created to experience 
 
 # 🥽 FEATURES
 
-- VR Standalone for Meta Quest 3/3s/Pro and Pico 4/4 Ultra
+- VR Standalone for Meta Quest 3/3s/Pro/2 and Pico 4/4 Ultra
 - No PC required
 - Controls adapted for Meta Quest Touch
 - Virtual Reality and Mixed Reality experience
